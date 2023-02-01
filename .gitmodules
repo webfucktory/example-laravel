@@ -1,3 +1,6 @@
 [submodule ".docker"]
 	path = .docker
 	url = https://github.com/webfucktory/example-laravel-docker
+[submodule ".gitmodules.d/.github/workflows"]
+	path = .gitmodules.d/.github/workflows
+	url = https://github.com/webfucktory/example-laravel-github-workflows
